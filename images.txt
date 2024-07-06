@@ -3,7 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-riscv64/ubuntu:21.04
-riscv64/ubuntu:22.04
-riscv64/ubuntu:latest
-
+maxxing/compiler-dev
